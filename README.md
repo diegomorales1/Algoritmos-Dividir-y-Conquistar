@@ -2,6 +2,8 @@
 
 * Aqui se presenta todo el codigo relacionado al informe numero 1 de algoritmos y complejidad, para aquellos algoritmos de ordenamiento y multiplicacion de matrices
 * Como primera instancia notaremos unas carpetas con nombres con numeros, aquellos numeros aluden al tamaño de unos datasets para los algortimos de ordenamiento, cada uno de los datasets con cierto grado de desorden entre ellos para probar
+* Hay un archivo dataset.txt como ejemplo de entrada estandar para probar los algoritmos de ordenamiento
+* hay una carpeta con casos de prueba para los algoritmos de multiplicacion de matrices
 
 # Instrucciones de Uso
 
